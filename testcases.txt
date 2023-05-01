@@ -1,0 +1,14 @@
+Results of Tests Given
+
+Test 1: Passed, the server is able to connect to a client and perform mathematical operations.
+Test 2: Passed, the server is able to disconnect from a client and connect to another client as well gives its service without any problem.
+Test 3: Passed, When another client tries to send an expression for evaluation, it does “nothing”.Also the server1 doesn’t show its connection establishment as client1 is already connected. Evidence as screenshot given below.  Better manually checked by the grader. 
+Test 4: Passed, Can perform mathematical operations without any problem. 
+Test 5: Passed, Allows multiple clients to connect without any issue. 
+Test 6: Passed, Need to be manually checked by grader. 
+Test 7: Passed, Need to be manually checked by grader. 
+
+Additional Test: It can be seen in the screenshot above that our server can handle any kind of mathematical expression and will give correct output if the expression is valid else gives message as “Invalid input” .
+
+
+
